@@ -45,7 +45,7 @@
 具体见：[Link](http://www.ruanyifeng.com/blog/2012/02/ranking_algorithm_hacker_news.html)
 
 ##RSS
-位置在页面底部，暂时只能订阅最新发布的列表。
+位于页面底部，暂时只能订阅最新发布的列表。
 
 ##收藏
 收藏自己认为有用的链接。方便以后查阅。
