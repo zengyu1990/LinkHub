@@ -61,6 +61,17 @@
 
 系统的第一版本为英文版，然后在此基础上产生了第二版，所以第二版可能会出现部分汉化不完全的问题。
 
+##markdown支持
+链接的content可以支持markdown语法。
+
+语法可以参考:[http://stackoverflow.com/editing-help](http://stackoverflow.com/editing-help)
+
+##emoji表情支持
+在链接的content和评论中可打出emoji的表情了。
+
+使用支持emoji表情的输入法即可打出相应的表情。在不支持的情况下，可参见符号表情表[emoji-cheat-sheet.com](http://emoji-cheat-sheet.com)
+
+
 #实现
 在前端，使用的是```bootstrap 3.0+jquery```实现。后端使用```django 1.4+mysql 5```。
 
