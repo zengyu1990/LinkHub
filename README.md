@@ -66,6 +66,8 @@
 
 语法可以参考:[http://stackoverflow.com/editing-help](http://stackoverflow.com/editing-help)
 
+补充一个在线所见即所得编辑器 [https://stackedit.io/](https://stackedit.io/)
+
 ##emoji表情支持
 在链接的content和评论中可打出emoji的表情了。
 
